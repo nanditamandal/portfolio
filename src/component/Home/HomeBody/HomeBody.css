@@ -1,0 +1,10 @@
+.body{
+    margin-top: 20px;
+    color: white;
+}
+.body img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+
+}
